@@ -1,0 +1,88 @@
+.test_div{
+    /* margin-top: 5em; */
+    position: relative;
+    width: 100%;
+    height: 50vw;
+    background-image: url('../../background_images/test_back.png');
+    background-size: cover;
+}
+.test_img{
+    position: absolute;
+    /* display: block; */
+    top: 15%;
+    width: 25%;
+    left: 25%;
+    animation-name: e1;
+    animation-duration: 4s;
+    animation-delay: 4s;
+}
+@keyframes e1{
+    from {width: 0%;}
+    to {width: 25%;}
+}
+.test_logo{
+    width: 12%;
+    border-radius: 50%;
+    position: absolute;
+    left: 60%;
+    top: 21%;
+    animation-name: e2;
+    animation-duration: 3s;
+    animation-delay: 4s;
+}
+@keyframes e2{
+    from {width: 0%;}
+    to {width: 12%;}
+}
+.test_heading{
+    /* width: 5%; */
+    position: absolute;
+    left: 61%;
+    top: 45%;
+    font: normal 1.5vw sans-serif;
+    letter-spacing: 0.2em;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #595959;
+    animation-name: e3;
+    animation-duration: 3s;
+    animation-delay: 4s;
+}
+@keyframes e3{
+    from {font-size: 0vw;}
+    to {font-size: 1.5vw;}
+}
+.test_title{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    text-align: center;
+    font: normal bold 3vw sans-serif;
+    /* letter-spacing: normal; */
+    letter-spacing: 0.4vw;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.test_text{
+    position: absolute;
+    left: 55.65%;
+    text-align: justify;
+    top: 52%;
+    width: 20%;
+    font: normal 1.2vw sans-serif;
+    letter-spacing: 0.03em;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+    animation-name: e4;
+    animation-duration: 3s;
+    animation-delay: 4s;
+}
+@keyframes e4{
+    from {font-size: 0vw;}
+    to {font-size: 1.2vw;}
+}
+.quote_logo{
+    position: absolute;
+    width: 3%;
+    left: 64%;
+    top: 76%;
+}

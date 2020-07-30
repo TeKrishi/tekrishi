@@ -1,0 +1,123 @@
+.f_wrapper{
+    margin-top: 5vw;
+}
+.step1{
+    display: block;
+    margin: auto;
+    position: relative;
+    width: 40%;
+    height: 20vw;
+    -moz-box-shadow: 5px 5px 5px 5px #333333;
+    -webkit-box-shadow: 5px 5px 5px 5px #333333;
+    box-shadow: 5px 5px 5px 5px #333333;
+}
+.step1_bullet{
+    position: absolute;
+    top: -10%;
+    left: 1%;
+    font: normal bold 2vw sans-serif;
+    letter-spacing: 0.2em;
+    color: black;
+}
+.step1_title{
+    /* width: 5%; */
+    position: absolute;
+    left: 15%;
+    top: 17%;
+    font: normal bold 1.3vw sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+.step1_text{
+    position: absolute;
+    left: 14%;
+    text-align: justify;
+    top: 36%;
+    width: 29%;
+    font: normal 1.2vw sans-serif;
+    letter-spacing: 0.03em;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+.step2{
+    display: block;
+    margin: auto;
+    position: relative;
+    width: 40%;
+    height: 20vw;
+    -moz-box-shadow: 5px 5px 5px 5px #333333;
+    -webkit-box-shadow: 5px 5px 5px 5px #333333;
+    box-shadow: 5px 5px 5px 5px #333333;
+}
+.step2_bullet{
+    position: absolute;
+    top: -10%;
+    left: 94%;
+    font: normal bold 2vw sans-serif;
+    letter-spacing: 0.2em;
+    color: black;
+}
+.step1_img{
+    position: absolute;
+    width: 30%;
+    top: 5%;
+    left: 60%;
+}
+.step2_img{
+    position: absolute;
+    width: 30%;
+    top: 5%;
+    left: 12%;
+}
+.step2_title{
+    /* width: 5%; */
+    position: absolute;
+    left: 58%;
+    top: 17%;
+    font: normal bold 1.3vw sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+/* animation-duration: 3s;
+animation-delay: 4s;
+} */
+#s1{
+    animation-name: ee4;
+    animation-duration: 3s;
+    animation-delay: 1s;
+}
+#s2{
+    animation-name: ee4;
+    animation-duration: 3s;
+    animation-delay: 4s;
+}
+#s3{
+    animation-name: ee4;
+    animation-duration: 3s;
+    animation-delay: 7s;
+}
+#s4{
+    animation-name: ee4;
+    animation-duration: 3s;
+    animation-delay: 10s;
+}
+#s5{
+    animation-name: ee4;
+    animation-duration: 3s;
+    animation-delay: 13s;
+}
+@keyframes ee4{
+    from {width: 0%;}
+    to {width: 30%;}
+}
+.step2_text{
+    position: absolute;
+    left: 57%;
+    text-align: justify;
+    top: 36%;
+    width: 29%;
+    font: normal 1.2vw sans-serif;
+    letter-spacing: 0.03em;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}

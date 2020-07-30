@@ -1,0 +1,41 @@
+.block{
+    position: relative;
+    width: 305px;
+    /* border: dotted; */
+}
+.profile_pic{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 62%;
+}
+.profile_name,.profile_post{
+    text-align: center;
+    font: normal 120% sans-serif;
+    letter-spacing: 0.03em;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #595959;
+}
+.profile_post{
+    margin-bottom: 25%;
+}
+.profile_link{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+    margin-top: -3%;
+}
+.profile_link_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: -3%;
+}
+@media (max-width: 768px){
+    .profile_pic{
+        width: 52%;
+    }
+}

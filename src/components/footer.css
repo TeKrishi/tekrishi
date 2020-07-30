@@ -1,0 +1,78 @@
+.footer{
+    margin-top: 1vw;
+    background-color: #8d9d3a;
+    width: 100%;
+}
+.footer_flex{
+    /* border-style: dotted;
+    border-color: honeydew; */
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    display:flex; 
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.contact_div,.quicklinks_div{
+    margin-top: 5%;
+    margin-left: 12%;
+    margin-bottom: 10%;
+    height: 100%;
+    width: 150px;
+    /* border-style: dotted;
+    border-color: green; */
+}
+.play_div{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 12%;
+    height: 100%;
+    width: 200px;
+    /* border-style: dotted;
+    border-color: green; */
+}
+.play_logo{
+    width: 80%;
+}
+.contact_title,.play_title{
+    color: white;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.3em;
+}
+.quicklinks_title{
+    color: white;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.3em;
+    margin-bottom: 1.8em;
+}
+.place_address,.tel_address{
+    color: white;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 0.8em;
+    margin-top: 3em;
+}
+.quicklinks_text{
+    color: white;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 0.8em;
+}
+.socialmedia_quicks{
+    margin-top: 1.5em;
+}
+.scroll_up{
+    margin-top: 1.6em;
+    width: 100%;
+}
+.copyright{
+    margin-top: 1.5em;
+    font-size: 0.8em;
+    color: white;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+}

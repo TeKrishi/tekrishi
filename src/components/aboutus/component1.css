@@ -1,0 +1,48 @@
+.mission_div{
+    position: relative;
+    background-color:white;
+}
+.mission_img{
+    display: block;
+    width: 47%;
+    margin-left: 3%;
+}
+.mission_logo{
+    width: 8%;
+    position: absolute;
+    left: 69%;
+    top: 24%;
+}
+.mission_heading{
+    /* width: 5%; */
+    position: absolute;
+    left: 62%;
+    top: 37%;
+    font: normal bold 2.5vw sans-serif;
+    letter-spacing: 0.3em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.company_img{
+    position: absolute;
+    left: 26.9%;
+    top: 30%;
+    width: 10%;
+}
+.mission_text{
+    position: absolute;
+    left: 57%;
+    top: 50%;
+    width: 35%;
+    font: normal 1.5vw sans-serif;
+    letter-spacing: 0.03em;
+    /* font-style: italic; */
+    font-family: 'Josefin Sans', sans-serif;
+}
+.play-store_frame{
+    position: absolute;
+    left: 27.6%;
+    top: 48.5%;
+    width: 8.4%;
+    height: 5.5%;
+    /* border: 1px solid red; */
+}

@@ -1,0 +1,25 @@
+.intro{
+    /* background-image: url(../../background_images/back-img.jpg); */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.back{
+    background-color:white;
+    position: relative;
+}
+.logo_img{
+    position: absolute;
+    left: 50.3%;
+    top: 29%;
+    width: 13%;
+}
+.play-store_box{
+    position: absolute;
+    left: 51.6%;
+    top: 48%;
+    width: 12.5%;
+    height: 5.5%;
+    /* border: 1px solid red; */
+}

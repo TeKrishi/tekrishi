@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14e39be3.chunk.css",
+    "main.js": "/static/js/main.4e917892.chunk.js",
+    "main.js.map": "/static/js/main.4e917892.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.416de00c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.416de00c.js.map",
+    "static/js/2.53cc7ccd.chunk.js": "/static/js/2.53cc7ccd.chunk.js",
+    "static/js/2.53cc7ccd.chunk.js.map": "/static/js/2.53cc7ccd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.72b34a783e2711e04288589a7190a517.js": "/precache-manifest.72b34a783e2711e04288589a7190a517.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.14e39be3.chunk.css.map": "/static/css/main.14e39be3.chunk.css.map",
+    "static/js/2.53cc7ccd.chunk.js.LICENSE.txt": "/static/js/2.53cc7ccd.chunk.js.LICENSE.txt",
+    "static/media/akash_pic.jpeg": "/static/media/akash_pic.2c8a2e08.jpeg",
+    "static/media/back-img.png": "/static/media/back-img.faff9588.png",
+    "static/media/company_logo_text.png": "/static/media/company_logo_text.c0b65170.png",
+    "static/media/ecell.png": "/static/media/ecell.9b935af9.png",
+    "static/media/kartik_pic.jpeg": "/static/media/kartik_pic.30bddbef.jpeg",
+    "static/media/krishi_sevak_logo.png": "/static/media/krishi_sevak_logo.82724ac3.png",
+    "static/media/phone_app.png": "/static/media/phone_app.4cb37f99.png",
+    "static/media/quote.png": "/static/media/quote.76033337.png",
+    "static/media/rohan_pic.jpg": "/static/media/rohan_pic.7e156fd0.jpg",
+    "static/media/step1.png": "/static/media/step1.1a7ec06b.png",
+    "static/media/step2.png": "/static/media/step2.c2a26559.png",
+    "static/media/step3.png": "/static/media/step3.71550e12.png",
+    "static/media/step4.png": "/static/media/step4.9209beb0.png",
+    "static/media/step5.png": "/static/media/step5.2e23c5a7.png",
+    "static/media/component4.css": "/static/media/test_back.38265c4f.png",
+    "static/media/test_pic.png": "/static/media/test_pic.7527514b.png",
+    "static/media/video.mp4": "/static/media/video.cbe7fe64.mp4",
+    "static/media/vishal_pic.jpg": "/static/media/vishal_pic.0665213c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.416de00c.js",
+    "static/js/2.53cc7ccd.chunk.js",
+    "static/css/main.14e39be3.chunk.css",
+    "static/js/main.4e917892.chunk.js"
+  ]
+}

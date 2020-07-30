@@ -1,0 +1,10 @@
+.scroll{
+    position: relative;
+    width: 30%;
+    background-color: #8d9d3a;
+    border: none;
+    cursor: pointer;
+}
+.top_arrow{
+    width: 100%;
+}

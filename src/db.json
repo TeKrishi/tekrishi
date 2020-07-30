@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Vishal Verma",
+        "link": "https://www.linkedin.com/in/vishalverma29?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu%2BkyeIslQhu5554zqisa4Q%3D%3D",
+        "post": "Co-Founder/CEO",
+        "pic": "vishal_pic.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shivansh Anand",
+        "link": "https://www.linkedin.com/in/anandshivansh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxNS4qJ83SuGvVoIhnaglZA%3D%3D",
+        "post": "Co-Founder/CTO",
+        "pic": "vishal_pic.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Kartik Agarwal",
+        "link": "https://www.linkedin.com/in/kartikagarwal11?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJYHOvq5OTUmdS2tojv2ZPQ%3D%3D",
+        "post": "Senior Developer",
+        "pic": "profile_pic"
+
+    },
+    {
+        "id": 4,
+        "name": "Rohan Lahane",
+        "link": "https://www.linkedin.com/in/rohanlahane",
+        "post": "UI/UX Developer",
+        "pic": "vishal_pic.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "Prajjwal Nair",
+        "link": "https://www.linkedin.com/in/prajjwal-nair-4067a61b3/",
+        "post": "Senior Developer",
+        "pic": "vishal_pic.jpg"
+
+    },
+    {
+        "id": 6,
+        "name": "Akash Verma",
+        "link": "https://www.linkedin.com/in/akash-verma-1a62221ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgh%2FySAqqS5uI4Osj0SnXaw%3D%3D",
+        "post": "Senior Developer",
+        "pic": "vishal_pic.jpg"
+
+    }
+]
