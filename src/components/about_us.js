@@ -16,7 +16,9 @@ const AboutUs=({profile_data})=>{
             <div className="team_title">
                 <p>Meet The Team</p>
             </div>
-                <hr className="horizontal_line"/>
+            <br/>
+            <br/>
+                {/* <hr className="horizontal_line"/> */}
             <div className='profile_wrapper'>
                 {
                     profile_data.map((each_data)=>{

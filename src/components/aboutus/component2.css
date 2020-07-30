@@ -39,3 +39,8 @@
         width: 52%;
     }
 }
+@media (min-width: 1000px){
+    .block{
+        width: 30%;
+    }
+}
