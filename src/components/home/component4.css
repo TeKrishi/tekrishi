@@ -12,13 +12,9 @@
     top: 15%;
     width: 25%;
     left: 25%;
-    animation-name: e1;
+    /* animation-name: e1;
     animation-duration: 4s;
-    animation-delay: 4s;
-}
-@keyframes e1{
-    from {width: 0%;}
-    to {width: 25%;}
+    animation-delay: 4s; */
 }
 .test_logo{
     width: 12%;
@@ -26,14 +22,11 @@
     position: absolute;
     left: 60%;
     top: 21%;
-    animation-name: e2;
+    /* animation-name: e2;
     animation-duration: 3s;
-    animation-delay: 4s;
+    animation-delay: 4s; */
 }
-@keyframes e2{
-    from {width: 0%;}
-    to {width: 12%;}
-}
+
 .test_heading{
     /* width: 5%; */
     position: absolute;
@@ -43,13 +36,9 @@
     letter-spacing: 0.2em;
     font-family: 'Josefin Sans', sans-serif;
     color: #595959;
-    animation-name: e3;
+    /* animation-name: e3;
     animation-duration: 3s;
-    animation-delay: 4s;
-}
-@keyframes e3{
-    from {font-size: 0vw;}
-    to {font-size: 1.5vw;}
+    animation-delay: 4s; */
 }
 .test_title{
     display: block;
@@ -72,17 +61,25 @@
     letter-spacing: 0.03em;
     font-family: 'Josefin Sans', sans-serif;
     color: black;
-    animation-name: e4;
+    /* animation-name: e4;
     animation-duration: 3s;
-    animation-delay: 4s;
-}
-@keyframes e4{
-    from {font-size: 0vw;}
-    to {font-size: 1.2vw;}
+    animation-delay: 4s; */
 }
 .quote_logo{
     position: absolute;
     width: 3%;
     left: 64%;
     top: 76%;
+}
+@media (max-width: 768px){
+    .test_text{
+        font: normal 1.5vw sans-serif;
+    }
+    .quote_logo{
+        display: none;
+    }
+    .test_heading{
+        font: normal 1.8vw sans-serif;
+        left: 59%;
+    }
 }

@@ -121,3 +121,19 @@ animation-delay: 4s;
     font-family: 'Josefin Sans', sans-serif;
     color: black;
 }
+@media (max-width: 768px){
+    .step1,.step2{
+        width: 54%;       
+        height: 27vw;              
+    }   
+    .step1_bullet,.step2_bullet{
+        top: -7%;       
+    }
+    .step1_title,.step2_title{
+        font: normal bold 1.7vw sans-serif;
+    }
+    .step2_text,.step1_text{
+        font: normal 1.5vw sans-serif;
+    }
+
+}
